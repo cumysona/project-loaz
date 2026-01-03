@@ -1,0 +1,17 @@
+{
+  "name": "project-loaz",
+  "version": "0.1.0",
+  "description": "A Node.js project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cumysona/project-loaz.git"
+  },
+  "author": "cumysona",
+  "license": "MIT"
+}
